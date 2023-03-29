@@ -1,6 +1,6 @@
-let's start with the first section: Introduction to Pointers.
+# Introduction to Pointers.
 
-Explanation of pointers and their role in `C` programming:
+## Explanation of pointers and their role in `C` programming:
 
 Pointers are variables that store memory addresses. They are an important part of C programming because they allow you to manipulate memory directly. Pointers are used to:
 
