@@ -2,7 +2,7 @@
 C Pointers Tutorial: A beginner-friendly guide to C pointers, covering syntax, memory allocation, dereferencing, pointer arithmetic, and best practices. Includes example code and a README file, shared under the MIT License for free use and modification.
 Course Outline
 
-## Introduction to Pointers
+## [Section-1](https://github.com/mcakyerima/C-pointers-tutorial/tree/main/Section-1) : Introduction to Pointers
 - Explanation of pointers and their role in C programming
 - Basic syntax for declaring pointers
 - Understanding memory allocation and address space
